@@ -1,0 +1,33 @@
+# Временные файлы
+*.tmp
+*.log
+*.temp
+
+# Резервные копии
+*.backup
+*.bak
+*.old
+
+# Системные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Папки редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Персональные файлы конфигурации
+config.local.rsc
+*-private.rsc
+
+# Логи MikroTik
+supout.rif
+*.backup
